@@ -16,7 +16,7 @@ NestedJSONArrayApp is a  application that demonstrates how to retrieve and displ
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/shariar99/Nasted-Json-Array.git]
+   git clone https://github.com/shariar99/Nasted-Json-Array.git
 Open the project in Visual Studio.
 
 Build and run the app on an emulator or a physical device.
