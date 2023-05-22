@@ -2,6 +2,10 @@
 
 
 
+Uploading 2023-05-22 13-08-10 (online-video-cutter.com).mp4…
+
+
+
 NestedJSONArrayApp is a  application that demonstrates how to retrieve and display a nested JSON array using Retrofit and RecyclerView.
 
 ## Features
@@ -25,7 +29,7 @@ Build and run the app on an emulator or a physical device.
 Update the baseUrl in the MainActivity class to your actual API base URL:
 
 
-Dim retrofit As Retrofit = New Retrofit.Builder() _
+  retrofit As Retrofit = New Retrofit.Builder() _
     .baseUrl("https://your-api-base-url.com/") _
     .addConverterFactory(GsonConverterFactory.create()) _
     .build()
