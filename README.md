@@ -2,7 +2,10 @@
 
 
 
-Uploading 2023-05-22 13-08-10 (online-video-cutter.com).mp4…
+
+https://github.com/shariar99/Nasted-Json-Array/assets/90522515/e723e880-f3e8-42fe-9328-bd72b66070cd
+
+
 
 
 
@@ -29,10 +32,10 @@ Build and run the app on an emulator or a physical device.
 Update the baseUrl in the MainActivity class to your actual API base URL:
 
 
-  retrofit As Retrofit = New Retrofit.Builder() _
-    .baseUrl("https://your-api-base-url.com/") _
+    ```retrofit As Retrofit = New Retrofit.Builder() _
+     .baseUrl("https://your-api-base-url.com/") _
     .addConverterFactory(GsonConverterFactory.create()) _
-    .build()
+     .build()
 Ensure that the API response matches the structure of the YourResponseModel and Topping classes. Modify them accordingly if needed.
 
 ## Dependencies
